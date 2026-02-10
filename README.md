@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Indiran
 
-🔌 **Electronics Enthusiast | PCB Design | Embedded Systems | VLSI Explorer**
+🔌 **Electronics Enthusiast | VLSI Design | RISC-V | Embedded Systems | PCB DESIGN**
 
-Welcome to my GitHub! I’m passionate about electronics, PCB design, VLSI, and embedded systems.  
+Welcome to my GitHub! I’m passionate about electronics, VLSI, Computer Architecture.  
 I enjoy working on projects that bring together hardware, microcontrollers, and digital design.
 
 ---
@@ -10,7 +10,7 @@ I enjoy working on projects that bring together hardware, microcontrollers, and 
 ## 🛠️ What I Work On
 - ⚡ **Electronics Projects**: Line follower robot, basic circuits
 - 🔗 **Embedded Systems**: STM32 (STM32F103 with CubeIDE), ESP32/ESP32-C3, communication protocols  
-- 🖥️ **VLSI Design**: Verilog HDL coding, backend circuit design  
+- 🖥️ **VLSI Design**: Verilog HDL coding, Autonomous maze solver, CNN Accelerator
 
 ---
 
