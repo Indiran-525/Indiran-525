@@ -8,13 +8,16 @@ I enjoy working on projects that bring together hardware, microcontrollers, and 
 ---
 
 ## 🛠️ What I Work On
+- 🖥️ **VLSI Design**: Verilog HDL coding, Autonomous maze solver, CNN Accelerator
 - ⚡ **Electronics Projects**: Line follower robot, basic circuits
 - 🔗 **Embedded Systems**: STM32 (STM32F103 with CubeIDE), ESP32/ESP32-C3, communication protocols  
-- 🖥️ **VLSI Design**: Verilog HDL coding, Autonomous maze solver, CNN Accelerator
+
 
 ---
 
 ## 📂 Featured Projects
+- 🤖 **Autonomous Maze Solver on FPGA** – An autonomous maze solver implemented purely on an FPGA.
+-    **KNN classifier on FPGA** - A binary classifier running on FPGA to implement edge intelligence. 
 - 💧 **Water Level Indicator** – simple circuit to monitor water levels without the use of sensors and just basic electronics  
 - 🤖 **Line Follower Robot** – A bot that automatically follows a line, without any external controls  
 - 📟 **Temperature Controlled AC Remote** – A custom DIY AC remote that senses the temperature and sends on/off signal to AC accordingly  
